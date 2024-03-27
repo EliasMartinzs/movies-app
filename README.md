@@ -71,7 +71,16 @@ Primeiro aplicativo com React Native, bem simples, apenas para entender os conce
 
 - [tailwindcss-animate](https://www.npmjs.com/package/tailwindcss-animate)
 
-## Deply
+
+## Demo
+
+![app4](https://github.com/EliasMartinzs/movies-app/assets/97196276/fe8690ca-7931-42aa-8d09-8b3c0c91d83b)
+![app3](https://github.com/EliasMartinzs/movies-app/assets/97196276/a0196d15-4a32-4e54-aef1-0de6f9a3867b)
+![app2](https://github.com/EliasMartinzs/movies-app/assets/97196276/f4c8821c-086a-4fa7-a788-e57bc10ee67f)
+![app1](https://github.com/EliasMartinzs/movies-app/assets/97196276/eb4636b5-1e9c-43d1-a740-09be9de2279e)
+
+
+## Deploy
 
 Basta clona-lo
 
